@@ -1,4 +1,6 @@
-# JavaScript: Password Generator Project
+# JS Password Generator
+
+![screenshot](./screenshot.png)
 
 ## My Task
 
@@ -53,8 +55,8 @@ To check my work, a few things are being looked at like whether all the parts of
 ```
 I've included links to where you can see the tool in action, and the code behind it on GitHub. 
 
-// * The URL of the deployed application.
+The URL of the deployed application. https://aliviahhilliard.github.io/JS-Password-Generator/
 
-// * The URL of the GitHub repository, with a unique name and a readme describing the project.
+The URL of the GitHub repository. https://github.com/Aliviahhilliard/JS-Password-Generator
 ```
 I hope this helps simplify the project for you!                                                         
