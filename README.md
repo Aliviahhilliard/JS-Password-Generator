@@ -1,6 +1,6 @@
 # JS Password Generator
 
-![screenshot]Assets/03-javascript-homework-demo.png(./screenshot.png)
+![screenshot]03-javascript-homework-demo.png(./screenshot.png)
 
 ## My Task
 
