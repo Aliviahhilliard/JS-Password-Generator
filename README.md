@@ -13,8 +13,7 @@ like special characters, numbers, and upper and lower case letters.
 
 The generated passwords can include special characters. If you're not familiar with 
 these, check out this 
-[list of password special characters]
-(https://www.owasp.org/index.php/Password_special_characters)
+[list of password special characters](https://www.owasp.org/index.php/Password_special_characters)
 from the OWASP Foundation.
 ```
 
