@@ -1,15 +1,15 @@
 # JS Password Generator
 
-![screenshot](Passwordgeneratordemo.png)
+![screenshot](./Passwordgeneratordemo.png)
 
 ## My Task
 
 ```
 This is a JavaScript project where I've modified existing code to build a 
-password
-generator tool. This tool creates random passwords for users based on what they want
-in the password,
-like special characters, numbers, and upper and lower case letters. 
+password generator tool. This tool creates random passwords for users based on what they require
+in the password. Such as special characters, numbers, and upper and lower case letters. As well as 
+the length of the password. The user would have a minimum of 8 characters and a maximum of 128 characters.
+```
 
 The generated passwords can include special characters. If you're not familiar with 
 these, check out this 
@@ -80,10 +80,8 @@ and whether my code is well-organized and easy to understand.
 I've included links to where you can see the tool in action, and the code behind it on GitHub. 
 The following animation demonstrates the application functionality:
 
-![A user clicks on the red generate password button to then be prompted choices for the password which is then generated.]
+![A user clicks on the red generate password button to then be prompted choices for the password which is then generated.](https://github.com/Aliviahhilliard/JS-Password-Generator/blob/main/Assets/images/PasswordGenerator_AdobeExpress.gif)
 
 The URL of the deployed application. https://aliviahhilliard.github.io/JS-Password-Generator/
 
 The URL of the GitHub repository. https://github.com/Aliviahhilliard/JS-Password-Generator
-
-I hope this helps simplify the project for you!                                                         
