@@ -1,6 +1,6 @@
 # JS Password Generator
 
-![screenshot](Assets/images/Passwordgeneratordemo.png)
+![Link to Passwordgeneratordemo](Assets/images/Passwordgeneratordemo.png)
 
 ## My Task
 
