@@ -1,6 +1,6 @@
 # JS Password Generator
 
-![screenshot](https://github.com/Aliviahhilliard/JS-Password-Generator/blob/main/Assets/images/Passwordgeneratordemo.png)
+![screenshot](Assets/images/Passwordgeneratordemo.png)
 
 ## My Task
 
@@ -59,7 +59,7 @@ THEN the password is either displayed in an alert or written to the page
 
 I've included a gif to show you what the tool looks like and how it should function:
 
-![passwordgenerator screenshot](https://github.com/Aliviahhilliard/JS-Password-Generator/blob/main/Assets/images/Passwordgeneratordemo.png)
+![The Password Generator application displays a red button to "Generate Password".](Assets/images/PasswordGenerator_AdobeExpress.gif)
 
 ### Acceptance Criteria
 
@@ -72,7 +72,7 @@ and whether my code is well-organized and easy to understand.
 I've included links to where you can see the tool in action, and the code behind it on GitHub.
 The following animation demonstrates the application functionality:
 
-![password generator demo](https://github.com/Aliviahhilliard/JS-Password-Generator/blob/main/Assets/images/PasswordGenerator_AdobeExpress.gif)
+![A user clicks on the red generate password button to then be prompted choices for the password which is then generated.](https://github.com/Aliviahhilliard/JS-Password-Generator/blob/main/Assets/images/PasswordGenerator_AdobeExpress.gif)
 
 The URL of the deployed application. <https://aliviahhilliard.github.io/JS-Password-Generator/>
 
