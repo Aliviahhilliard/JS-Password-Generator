@@ -59,7 +59,7 @@ THEN the password is either displayed in an alert or written to the page
 
 I've included a gif to show you what the tool looks like and how it should function:
 
-![The Password Generator application displays a red button to "Generate Password".](Assets/images/PasswordGenerator_AdobeExpress.gif)
+![The Password Generator application displays a red button to "Generate Password".](https://github.com/Aliviahhilliard/JS-Password-Generator/blob/main/Assets/images/Passwordgeneratordemo.png)
 
 ### Acceptance Criteria
 
